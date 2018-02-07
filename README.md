@@ -1,0 +1,1 @@
+In this project, you will create a backend server, which later will be used for a frontend project.
